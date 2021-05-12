@@ -1,10 +1,14 @@
 # CopyRunebook
 Copies runes from one runebook to another (including rune names)
 
-You must have enough runes in your backpack.
+Simply run the script, target the filled runebook, then target the empty runebook you want to fill.
 
-The script may overwrite any spare marked runes in your backpack.
+* Second runebook must have enough space for all of the new runes for the script function as intended.
 
-The script will not function properly if you fail at casting either Recall or Mark (including due to interrupted concentration):
+* You must have enough runes in your backpack.
+
+* The script may overwrite any spare marked runes in your backpack.
+
+* The script will not function properly if you fail at casting Recall or Mark for any reason:
 	
    * This may result in skipped runes
